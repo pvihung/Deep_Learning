@@ -58,9 +58,9 @@ Determine if a meal is healthy from nutritional composition.
 - Environment: Google Colab
 
 ## Repository Structure
-.
+
 ├─ Student_Exam/
-│  ├─ ML_Student_Exam_.ipynb
+│  ├─ ML_Student_Exam.ipynb
 │  ├─ Student_Exam_DL.pdf
 │  └─ student_exam_scores.csv
 ├─ Sleep_Health_LifeStyle/
@@ -72,4 +72,5 @@ Determine if a meal is healthy from nutritional composition.
 │  ├─ Healthy_Eating_DL.pdf
 │  └─ healthy_eating_dataset.csv
 └─ README.md
+
 

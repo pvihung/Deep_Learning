@@ -59,18 +59,24 @@ Determine if a meal is healthy from nutritional composition.
 
 ## Repository Structure
 
-├─ Student_Exam/
-│  ├─ ML_Student_Exam.ipynb
-│  ├─ Student_Exam_DL.pdf
-│  └─ student_exam_scores.csv
-├─ Sleep_Health_LifeStyle/
-│  ├─ ML_Sleep_Health_LifeStyle.ipynb
-│  ├─ Sleep_Health_LifeStyle_DL.pdf
-│  └─ sleep_health_and_lifestyle.csv
-├─ Healthy_Eating/
-│  ├─ ML_Healthy_Eating.ipynb
-│  ├─ Healthy_Eating_DL.pdf
-│  └─ healthy_eating_dataset.csv
-└─ README.md
+Assignment_3/
+│
+├── Student_Exam/
+│   ├── ML_Student_Exam.ipynb
+│   ├── Student_Exam_DL.pdf
+│   └── student_exam_scores.csv
+│
+├── Sleep_Health_LifeStyle/
+│   ├── ML_Sleep_Health_LifeStyle.ipynb
+│   ├── Sleep_Health_LifeStyle_DL.pdf
+│   └── sleep_health_and_lifestyle.csv
+│
+├── Healthy_Eating/
+│   ├── ML_Healthy_Eating.ipynb
+│   ├── Healthy_Eating_DL.pdf
+│   └── healthy_eating_dataset.csv
+│
+└── README.md
+
 
 
